@@ -1,19 +1,26 @@
+
 <h1 align="center">
   <br>
-  <img src="https://github.com/hyfit/hyfit_server/assets/93467085/32824801-0dd8-4411-b65f-9bba19035006" alt="Markdownify" width="200">
+  <img src="https://github.com/hyfit/hyfit_server/assets/93467085/32824801-0dd8-4411-b65f-9bba19035006" alt="Markdownify" width="100">
   <br>
   Hyfit - Backend Repository
   <br>
 </h1>
+  <br>
+    <br>
+<p align="center">
+ <img width="600" alt="스크린샷 2024-06-25 오후 4 45 39" src="https://github.com/hyfit/hyfit_server/assets/93467085/06eaa9bc-d62f-42ae-8ced-6cb6c9fa3e39">
+</p>
+<hr/>
 
-<h2>Environment</h2>
+### Environment
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=blue">
 </p>
 
-<h2>Stack</h2>
+### Stack
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -24,15 +31,29 @@
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 </p>
 
-<h2>Communication</h2>
+### Communication
 <p>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=blue">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black">
 </p>
 
-![영상](https://github.com/hyfit/hyfit_android/assets/93467085/d878e60c-0221-4a0b-bc86-42fb30c7beef)
+### Screen 
+| 함께 운동하기 (실외 운동)|
+| :---: |
+| <img width="350" alt="함께운동" src="https://github.com/hyfit/hyfit_server/assets/93467085/f3379fa7-db04-40a5-b200-8564a38e17de"> |
+
+| 실내 운동 | 회원 리포트 |
+| :---: | :---: |
+| <img width="350" alt="실내운동" src="https://github.com/hyfit/hyfit_server/assets/93467085/45d746c5-a3e8-4b9c-a7c1-cb661dc7daaa"> | <img width="350" alt="리포트" src="https://github.com/hyfit/hyfit_server/assets/93467085/b93cbac2-e6b5-4647-b718-731a6e6d6886"> |
+
+| 목표 설정 | 커뮤니티 |
+| :---: | :---: |
+| <img width="350" alt="목표설정" src="https://github.com/hyfit/hyfit_server/assets/93467085/68e2aafb-2c79-4715-9c98-7ac65dde53aa"> | <img width="350" alt="커뮤니티" src="https://github.com/hyfit/hyfit_server/assets/93467085/8cb5b496-4623-4d86-bc80-cd7aca5f6aa7"> | 
+<br/>
 <hr>
+
+
 
 ## Repository Structure
 
