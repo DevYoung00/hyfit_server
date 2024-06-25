@@ -41,7 +41,7 @@
 ### Screen 
 | 함께 운동하기 (실외 운동)|
 | :---: |
-| <img width="350" alt="함께운동" src="https://github.com/hyfit/hyfit_server/assets/93467085/f3379fa7-db04-40a5-b200-8564a38e17de"> |
+| <img width="350" alt="함께운동" src="https://github.com/hyfit/hyfit_server/assets/93467085/f7fb5e5b-6145-4289-ba5f-ab4c43e6467d"> |
 
 | 실내 운동 | 회원 리포트 |
 | :---: | :---: |
