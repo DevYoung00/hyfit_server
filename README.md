@@ -41,7 +41,7 @@
 ### Screen 
 | 함께 운동하기 (실외 운동)|
 | :---: |
-| <img width="350" alt="함께운동" src="https://github.com/user-attachments/assets/1bceed43-6aaf-4b01-99b5-8edb378d6f89"> |
+| <img width="350" alt="함께운동" src="https://github.com/user-attachments/assets/c97d7de3-39ef-4fa6-b6da-056a969009a8"> |
 
 | 실내 운동 | 회원 리포트 |
 | :---: | :---: |
